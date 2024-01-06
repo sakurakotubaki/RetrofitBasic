@@ -10,8 +10,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.junichi.retrofitbasic.ui.theme.RetrofitBasicTheme
-import com.junichi.retrofitbasic.view_model.MainViewModel
-import com.junichi.retrofitbasic.view_model.PostList
+import com.junichi.retrofitbasic.view.MainViewModel
+import com.junichi.retrofitbasic.view.PostList
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

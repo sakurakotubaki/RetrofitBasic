@@ -1,4 +1,4 @@
-package com.junichi.retrofitbasic.view_model
+package com.junichi.retrofitbasic.view
 
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer

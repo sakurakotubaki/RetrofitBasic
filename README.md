@@ -19,7 +19,7 @@ app/src/main/java
             │       ├── Color.kt
             │       ├── Theme.kt
             │       └── Type.kt
-            └── view_model
+            └── view
                 ├── MainViewModel.kt
                 └── PostList.kt
 ```
